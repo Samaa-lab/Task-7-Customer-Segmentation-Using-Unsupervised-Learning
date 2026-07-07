@@ -88,30 +88,6 @@ This project applies **K-Means Clustering**, an unsupervised machine learning al
 
 ---
 
-## How to Run
-
-1. Clone this repository.
-
-```bash
-git clone https://github.com/yourusername/Customer-Segmentation-Using-Unsupervised-Learning.git
-```
-
-2. Install dependencies.
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Launch Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-4. Open the notebook and run all cells.
-
----
-
 ## Conclusion
 
 K-Means clustering successfully grouped customers into meaningful segments based on annual income and spending behavior. The insights obtained from this analysis can help businesses create personalized marketing campaigns, improve customer retention, optimize promotional strategies, and enhance overall business performance.
